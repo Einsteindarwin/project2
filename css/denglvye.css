@@ -1,0 +1,35 @@
+/*背景*/
+.box{  height: 793px;  background: url(../images/1-2_01.gif);}
+/*头部logo*/
+.header{  width: 980px;  height: 110px;margin: 0 auto;}
+.header img{margin: 37px 50px 39px}
+/*主要内容*/
+.content{  width: 980px;margin: 0 auto}
+.login{  width: 392px;  height: 448px;border: 1px solid #d8d8d8;  background: #fff;}
+.login_body{    padding: 23px 22px 21px;  width: 348px;  height: 405px;}
+.login_body h2{  text-align: center;    color: #000;  line-height: 24px;  padding-bottom: 20px;}
+.login_line{width: 100%;  height: 20px;  text-align: center;  line-height: 20px;  font-size: 12px;  color: #d3d3d3;  margin-bottom: 17px;}
+.line{  background: url(../images/1-5.gif)no-repeat;  height: 1px;  width: 348px;display: block;position: relative;  top:50%;}
+/*主要内容--用户与密码*/
+ul li input{ border: 1px solid silver;    width: 348px;  font-size: 16px; border-radius: 4px;  height: 46px;  line-height: 46px;  text-indent: 2em;   margin: 0 auto 10px;  overflow: hidden;}
+ul li .name{background: url(../images/1-8_20.gif)no-repeat 11px 50%;}
+ul li .key{background: url(../images/1-7_20.gif)no-repeat 11px 50%;}
+/*主要内容--登录及忘记密码*/
+.login_btn{  height: 70px;  padding-bottom: 26px;}
+.error_box{  width: 348px;  height: 17px;  padding-bottom: 5px;  }
+.error{    color: #ff4a4a;  width: 70%;  text-align: left;  font-size: 14px;  overflow: hidden;}
+.login_btn a{  float: right;cursor: pointer;color: #000;}
+.login_btn p a{display: block; width:348px; height: 48px;  line-height: 48px;  font-size: 16px;  text-align: center;  background: #343434;  color: #fff;  overflow: hidden;  zoom: 1;  border-radius: 4px;}
+/*主要内容--其他账号*/
+.small_logo a{display:inline-block;  width: 36px;  height: 36px;  margin: 0 16px 0 0;}
+.small_logo{ margin-left: 103px; }
+.num1{ background: url(../images/1-9_03.gif)no-repeat;}
+.num2{ background: url(../images/1-10_24.gif)no-repeat;}
+.num3{ background: url(../images/1-11_03.gif)no-repeat;}
+.footer{     padding: 19px 0 0;  font-size: 14px;  color: #c3c3c3;  text-align: center;}
+
+
+
+
+
+

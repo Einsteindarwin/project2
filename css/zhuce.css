@@ -1,0 +1,23 @@
+/*背景*/
+.box{  width: 100%;  height: 792px; background: url(../images/1-7_23.gif);}
+/*头部logo*/
+.header{  width: 980px;  height: 110px;margin: 0 auto;}
+.header img{margin: 37px 50px 39px}
+/*主要内容*/
+.content_box{    width: 980px;  background: #fff; margin: 0 auto;  height: 394px;  border: 1px solid #dbdbdb;}
+.content_body{    width: 350px;  margin: 0 auto;}
+.content_body h2{padding: 25px 0 27px;  text-align: center;  font-size: 14px;}
+/*主要内容--用户与密码*/
+ul li input{ border: 1px solid silver;    width: 348px;  font-size: 16px; border-radius: 4px;  height: 46px;  line-height: 46px;  text-indent: 2em;   margin: 0 auto 10px;  overflow: hidden;}
+ul li .name{background: url("images/1-8_20.gif")no-repeat 11px 50%;}
+#keyword{margin-bottom: 0}
+ul li .key{background: url("images/1-7_20.gif")no-repeat 11px 50%;}
+.phone-tip{font-size: 14px;  color: #d3d3d3;  padding-top: 5px;}
+.error_tip{  height: 30px;  font-size: 14px;  line-height: 26px;  color: #ff4a4a;}
+.content_body p .use{display: block; width:348px; height: 48px;  line-height: 48px;  font-size: 16px;  text-align: center;  background: #343434;  color: #fff;  overflow: hidden;  zoom: 1;  border-radius: 4px;}
+.xy{    color: #707070;  padding: 5px 0 30px;  font-size: 14px;}
+.xy a{    color: #000;}
+.small{  text-align: center;background: url("images/2-1_03.gif")no-repeat 56% 50%;display: block;}
+
+
+

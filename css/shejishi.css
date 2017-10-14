@@ -1,0 +1,82 @@
+/*头部广告背景*/
+.top_logo{  background: #000;  height: 45px;}
+.top_logo_box{  width: 980px;  height: 45px;margin: 0 auto;}
+/*头部广告*/
+.top_logo_fl{  width: 330px;padding: 7px 0;}
+/*头部导航栏*/
+.top_logo_fr{  width: 600px;}
+.top_logo_fr ul li{float: right;  line-height: 45px;  padding-right: 13px;}
+.top_logo_fr ul li a{color: #cfcfcf;}
+.nav_num{padding: 0 16px;}
+.top_logo_fr ul li:nth-child(5) a:nth-of-type(1){  padding-right: 13px;}
+.top_logo_fr ul li:nth-child(odd){  padding: 0;}
+/*头部导航条*/
+.top_nav_box{  width: 980px;  height: 60px;margin: 0 auto;}
+.nav_box{padding: 15px 0;  height: 30px;  width: 980px;}
+.top_nav_box ul li{float: left;padding: 0 12px;}
+.top_nav_box ul li a{  font-size: 16px;color: #000;  line-height: 30px;}
+.first{  border-bottom: 3px solid #000;}
+.nav_box li:nth-child(odd):hover{ border-bottom: 3px solid #000;}
+.top_nav_box ul li:nth-child(even){  padding-top: 4px;}
+/*头部搜索框*/
+.nav_box_input{  width: 272px;  height: 28px;border: 1px solid #e2e2e2;  padding: 0 5px;  line-height: 28px;}
+.anv_box_btn{  background: url(../images/2_07.gif);  width: 43px;  height: 30px;cursor: pointer;}
+/*主要内容*/
+.content{    width: 980px;  margin: 0 auto;  text-align: left;  padding: 20px 0;  overflow: hidden;}
+p{    text-align: left;  font-size: 14px;  line-height: 30px; color: #000000}
+/*主体内容--加入*/
+.join_group_btn{    width: 288px;  height: 70px;  overflow: hidden; margin: 0 auto;  border: 2px solid #000;  border-radius: 5px;  line-height: 70px;  font-size: 28px;  cursor: pointer;  text-align: center;}
+/*主体内容--标题*/
+.content_tittle{  width: 980px;  height: 473px;}
+.content_tittle_box{  padding-top: 50px;  text-align: center;}
+.content_tittle_box_content img{margin: 15px auto 0; }
+/*主体内容--文字解析*/
+.center_content{  height: 60px;}
+/*主体内容--条件*/
+.ad-items span{    display: block;  width: 110px;  height: 36px;  background: #000;  color: #fff;  text-align: center;  overflow: hidden;  font-size: 20px;  line-height: 36px;  margin:25px 0 8px 0}
+dl dt{padding: 24px 0 13px;}
+dd{  line-height: 30px;color: #000000}
+/*主体内容--广告*/
+.banner{border: 2px solid #fe0571;  padding: 32px;  margin-top: 40px;  overflow: hidden;}
+.banner_btn{width: 290px;  height: 72px;  background: #000;  color: #fff;  font-weight: 400;overflow: hidden;  margin: 0 auto;  border: 2px solid #000;  border-radius: 5px;  line-height: 70px;  font-size: 28px;  text-align: center; cursor: pointer;}
+.consult-box h2 {  font-size: 20px;  padding-bottom: 15px; color: #000000 }
+.consult-box .consult-item dl {  float: left;  width: 400px;  margin-right: 85px;  overflow: hidden;  text-align: left;  }
+.consult-box .consult-item dl dt {  font-size: 20px; color: #000000; border-bottom: 1px solid #7f7f7f;  padding-bottom: 10px;  margin-bottom: 10px;  }
+.consult-box .consult-item dl dd {  font-size: 20px;  line-height: 28px;  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*底部*/
+.footer{  height: 240px; background: #000;  text-align: center;  color: #727272}
+.footer_wrapper{margin: 0 auto;  width: 980px;position: relative;}
+.word{padding-top:25px;  height: 90px;margin: 0 285px 35px 0; }
+.word .say{    font-size: 20px;  color: #fff;  text-align: left;  line-height: 20px;}
+.author{font-size: 14px;  color: #fff;  text-align: right;  padding: 25px 0 0;}
+.footer_nav{ width: 720px;  text-align: left;}
+.footer_nav a{padding-right:5px;  line-height: 20px;float: left;display: block;  text-indent: 2em;  width: 85px;}
+.footer_nav a:nth-of-type(1){  background: url("images/51_46.gif")no-repeat;  }
+.footer_nav a:nth-of-type(2){  background: url("images/52_49.gif")no-repeat;}
+.footer_nav a:nth-of-type(3){  background: url("images/43_52.gif")no-repeat; text-indent: 3em;  margin-right: 15px;}
+.footer_nav a:nth-of-type(4){ padding: 0 0 0 9px; text-indent: 0; width: 53px;}
+.footer_nav a:nth-of-type(5){ padding: 0 0 0 9px; text-indent: 0; width: 53px;}
+.friend_link a{float: left; margin: 0 10px; }
+.friend_link{width: 720px; border-top: 1px solid #58595c; padding: 5px 0 0;margin: 10px 285px 0 0;}
+.special{display: block;  width: 110px;  height: 65px;position: absolute;right: 70px;  top: 100px;}
+.friend_link a:hover{  text-decoration: underline;}
